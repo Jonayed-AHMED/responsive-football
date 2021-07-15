@@ -33,9 +33,9 @@ a {
 	margin-top: 20px;
 }
 .img-section img:hover {
-	transform: scale(1.5);
-	transition-duration: 1s;
-	transition-delay: 0.5s;
+	transform:  rotate(0.5turn);
+	transition-duration: 2s;
+	transition-delay: 1s;
 }
 /* players */
 
